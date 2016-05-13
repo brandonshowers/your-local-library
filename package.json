@@ -1,0 +1,19 @@
+{
+  "name": "your-local-library",
+  "version": "1.0.0",
+  "description": "Library to share games and movies with your co-workers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MassNerdy/your-local-library.git"
+  },
+  "author": "Sam Snyder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MassNerdy/your-local-library/issues"
+  },
+  "homepage": "https://github.com/MassNerdy/your-local-library#readme"
+}
